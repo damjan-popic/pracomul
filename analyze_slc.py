@@ -15,14 +15,15 @@ Fixes in this version (v5)
 Outputs
 -------
 results/
-    turns.csv                  # wide: keeps both A/B meta
-    turns_long.csv             # long: single set of attrs per row
-    tokens.csv                 # one token per row
+    turns.csv                   # wide: keeps both A/B meta
+    turns_long.csv              # long: single set of attrs per row
+    tokens.csv                  # one token per row
+    tokens_with_meta.csv        # tokens linked to speaker metadata
     aggregates_overall.csv
     aggregates_by_doc.csv
-    aggregates_by_speaker.csv  # A vs B
-    aggregates_by_<attr>.csv   # nationality, university, age, gender, etc.
-    aggregates_by_country_combo.csv  # doc-level A_B nationality pair
+    aggregates_by_speaker.csv   # A vs B
+    aggregates_by_<attr>.csv    # nationality, university, age, gender, etc.
+    aggregates_by_country_combo.csv # doc-level A_B nationality pair
 
 """
 
@@ -222,7 +223,10 @@ def process_turns(doc_attrs: Dict[str, str], nlp, text_block: str) -> Tuple[List
             return doc_attrs.get(f"{field}_{pref}", "")
 
         if doc is not None:
+            sent_map = {sent.start: i for i, sent in enumerate(doc.sents)}
             for i, tok in enumerate(doc):
+                sent_start = tok.sent.start if tok.sent else -1
+                sent_num = sent_map.get(sent_start, -1)
                 tokens.append(TokenRow(
                     doc_id=doc_attrs.get("id", ""),
                     speaker=current_speaker,
@@ -234,7 +238,7 @@ def process_turns(doc_attrs: Dict[str, str], nlp, text_block: str) -> Tuple[List
                     tag=tok.tag_,
                     dep=tok.dep_,
                     is_alpha=tok.is_alpha,
-                    sent_id=tok.sent.start if tok.sent is not None else -1,
+                    sent_id=sent_num,
                 ))
 
         t = Turn(
@@ -418,6 +422,27 @@ def main(corpus_path: Path, out_dir: Path) -> None:
     turns_long.to_csv(out_dir / "turns_long.csv", index=False)
 
     aggregate_and_save(turns_long, out_dir)
+
+    print("Linking tokens to speaker metadata...")
+
+    # 1. Define the metadata columns you want to link to each token
+    meta_cols = [
+        "doc_id", "speaker", "turn_id",  # Keys for joining
+        "age", "gender", "mother_tongue", "spanish_level",
+        "nationality", "university"
+    ]
+    speaker_meta_df = turns_df[meta_cols]
+
+    # 2. Merge the tokens DataFrame with the speaker metadata
+    tokens_with_meta_df = pd.merge(
+        tokens_df,
+        speaker_meta_df,
+        on=["doc_id", "speaker", "turn_id"],
+        how="left"
+    )
+
+    # 3. Save the new enriched token file
+    tokens_with_meta_df.to_csv(out_dir / "tokens_with_meta.csv", index=False)
 
     print("Done. Files written to", out_dir)
 
