@@ -1,14 +1,9 @@
 # Pracomul‑SLC Analyzer
 
-A single‑file, zero‑dependency* pipeline that transforms the Pracomul
+A  pipeline that transforms the Pracomul
 **SLC‑style dialogue corpus** (≈ 108 k tokens) into tidy data frames and
 pre‑computed aggregate tables—ready for statistical analysis or quick
 exploration in R, Python, Excel, or a notebook.
-
-\* “Zero dependency” in the sense that you install libraries with
-`conda`/`pip`; no environment YAMLs or Docker images are forced on you.
-
----
 
 ## 1  Quick Start
 
