@@ -1,0 +1,850 @@
+marker,university,spanish_level,gender,mother_tongue,n,tokens_total,per_1k,spanish_level_bucket
+(y) es que,Universidad de Sevilla,C2,F,es,14,2332,6.003430531732419,upper
+(y) es que,Universidad de Sevilla,C2,M,es,5,833,6.002400960384153,upper
+(y) es que,Universita degli Studi di Palermo,B1,F,it,1,4299,0.23261223540358222,lower
+(y) es que,Universita degli Studi di Palermo,B2,F,it,4,9519,0.42021220716461816,upper
+(y) es que,Universita degli Studi di Palermo,B2,M,it,1,1321,0.757002271006813,upper
+(y) es que,Universita degli Studi di Palermo,C1,F,it,12,1837,6.5323897659227,upper
+(y) es que,Universita degli Studi di Palermo,C1,M,it,1,650,1.5384615384615385,upper
+(y) es que,Univerza v Ljubljani,B2,F,sl,26,17595,1.4776925262858767,upper
+(y) es que,Univerza v Ljubljani,C1,F,sl,39,13120,2.972560975609756,upper
+(y) es que,Univerza v Ljubljani,C2,F,es,4,2942,1.3596193065941535,upper
+(y) es que,Univerza v Ljubljani,C2,F,sl,16,659,24.279210925644918,upper
+(y) es que,Univerza v Ljubljani,C2,M,es,3,1217,2.4650780608052587,upper
+(y) es que,Vrije Universiteit Brussel,B1,F,nl,2,4082,0.4899559039686428,lower
+(y) es que,Vrije Universiteit Brussel,B1,M,fr,2,704,2.840909090909091,lower
+(y) es que,Vrije Universiteit Brussel,B2,F,fr,9,1468,6.130790190735695,upper
+(y) es que,Vrije Universiteit Brussel,B2,F,nl,10,2033,4.918839153959666,upper
+(y) es que,Vrije Universiteit Brussel,C2,F,es,6,4875,1.2307692307692308,upper
+(y) es que,Vrije Universiteit Brussel,C2,M,es,3,2277,1.3175230566534915,upper
+a lo mejor,Universidad de Sevilla,C2,F,es,1,2332,0.4288164665523156,upper
+a lo mejor,Universita degli Studi di Palermo,B2,F,it,1,9519,0.10505305179115454,upper
+a lo mejor,Universita degli Studi di Palermo,C1,F,it,1,1837,0.5443658138268916,upper
+a lo mejor,Universita degli Studi di Palermo,C1,M,it,1,650,1.5384615384615385,upper
+a lo mejor,Univerza v Ljubljani,B2,F,sl,3,17595,0.17050298380221654,upper
+a lo mejor,Univerza v Ljubljani,B2,M,sl,1,615,1.6260162601626016,upper
+a lo mejor,Univerza v Ljubljani,C2,F,es,1,2942,0.3399048266485384,upper
+a lo mejor,Vrije Universiteit Brussel,C1,F,es,2,429,4.662004662004662,upper
+a lo mejor,Vrije Universiteit Brussel,C2,F,es,5,4875,1.0256410256410255,upper
+a lo mejor,Vrije Universiteit Brussel,C2,M,es,1,2277,0.43917435221783047,upper
+además,Universidad de Sevilla,C2,F,es,2,2332,0.8576329331046312,upper
+además,Universita degli Studi di Palermo,B1,F,it,1,4299,0.23261223540358222,lower
+además,Universita degli Studi di Palermo,B2,F,it,3,9519,0.3151591553734636,upper
+además,Universita degli Studi di Palermo,B2,M,it,1,1321,0.757002271006813,upper
+además,Universita degli Studi di Palermo,C1,M,it,1,650,1.5384615384615385,upper
+además,Univerza v Ljubljani,B2,M,sl,2,615,3.252032520325203,upper
+además,Univerza v Ljubljani,C1,F,sl,3,13120,0.22865853658536586,upper
+además,Univerza v Ljubljani,C2,F,es,5,2942,1.699524133242692,upper
+además,Univerza v Ljubljani,C2,M,es,3,1217,2.4650780608052587,upper
+además,Vrije Universiteit Brussel,B2,F,nl,1,2033,0.49188391539596654,upper
+además,Vrije Universiteit Brussel,C2,F,es,1,4875,0.20512820512820512,upper
+además,Vrije Universiteit Brussel,C2,M,es,1,2277,0.43917435221783047,upper
+afortunadamente,Universita degli Studi di Palermo,B1,F,it,2,4299,0.46522447080716445,lower
+afortunadamente,Universita degli Studi di Palermo,B2,F,it,2,9519,0.21010610358230908,upper
+afortunadamente,Univerza v Ljubljani,C1,F,sl,1,13120,0.07621951219512195,upper
+afortunadamente,Vrije Universiteit Brussel,B1,M,fr,1,704,1.4204545454545454,lower
+al fin y al cabo,Universidad de Sevilla,C2,F,es,1,2332,0.4288164665523156,upper
+al fin y al cabo,Universidad de Sevilla,C2,M,es,3,833,3.6014405762304924,upper
+al fin y al cabo,Universita degli Studi di Palermo,C1,F,it,1,1837,0.5443658138268916,upper
+al fin y al cabo,Vrije Universiteit Brussel,C2,F,es,3,4875,0.6153846153846154,upper
+al menos,Univerza v Ljubljani,B1,F,sl,1,1000,1.0,lower
+al menos,Univerza v Ljubljani,B2,F,sl,2,17595,0.11366865586814436,upper
+al menos,Univerza v Ljubljani,C1,F,sl,1,13120,0.07621951219512195,upper
+al menos,Vrije Universiteit Brussel,C2,F,es,1,4875,0.20512820512820512,upper
+al menos,Vrije Universiteit Brussel,C2,M,es,1,2277,0.43917435221783047,upper
+al mismo tiempo,Universita degli Studi di Palermo,B2,F,it,6,9519,0.6303183107469272,upper
+al mismo tiempo,Univerza v Ljubljani,B2,F,sl,2,17595,0.11366865586814436,upper
+al mismo tiempo,Univerza v Ljubljani,C1,F,sl,3,13120,0.22865853658536586,upper
+al mismo tiempo,Vrije Universiteit Brussel,C2,F,es,1,4875,0.20512820512820512,upper
+apenas,Vrije Universiteit Brussel,C2,F,es,2,4875,0.41025641025641024,upper
+aun así,Univerza v Ljubljani,C1,F,sl,2,13120,0.1524390243902439,upper
+bien,Universidad de Sevilla,C2,F,es,10,2332,4.288164665523156,upper
+bien,Universidad de Sevilla,C2,M,es,2,833,2.4009603841536613,upper
+bien,Universita degli Studi di Palermo,A2,F,it,1,540,1.8518518518518519,lower
+bien,Universita degli Studi di Palermo,B1,F,it,7,4299,1.6282856478250756,lower
+bien,Universita degli Studi di Palermo,B2,F,it,22,9519,2.3111671394054,upper
+bien,Universita degli Studi di Palermo,C1,F,it,5,1837,2.721829069134458,upper
+bien,Universita degli Studi di Palermo,C1,M,it,5,650,7.6923076923076925,upper
+bien,Univerza v Ljubljani,B1,F,sl,2,1000,2.0,lower
+bien,Univerza v Ljubljani,B2,F,it,1,414,2.4154589371980677,upper
+bien,Univerza v Ljubljani,B2,F,sl,44,17595,2.500710429099176,upper
+bien,Univerza v Ljubljani,B2,M,sl,1,615,1.6260162601626016,upper
+bien,Univerza v Ljubljani,C1,F,sl,38,13120,2.8963414634146343,upper
+bien,Univerza v Ljubljani,C2,F,es,3,2942,1.0197144799456153,upper
+bien,Univerza v Ljubljani,C2,F,sl,2,659,3.0349013657056148,upper
+bien,Univerza v Ljubljani,C2,M,es,7,1217,5.751848808545604,upper
+bien,Vrije Universiteit Brussel,B1,F,nl,4,4082,0.9799118079372856,lower
+bien,Vrije Universiteit Brussel,B1,F,ro,1,535,1.8691588785046729,lower
+bien,Vrije Universiteit Brussel,B1,M,en,2,475,4.2105263157894735,lower
+bien,Vrije Universiteit Brussel,B1,M,fr,3,704,4.261363636363637,lower
+bien,Vrije Universiteit Brussel,B1,M,nl,3,1582,1.8963337547408343,lower
+bien,Vrije Universiteit Brussel,B2,F,fr,5,1468,3.4059945504087192,upper
+bien,Vrije Universiteit Brussel,B2,F,nl,5,2033,2.459419576979833,upper
+bien,Vrije Universiteit Brussel,C1,F,es,2,429,4.662004662004662,upper
+bien,Vrije Universiteit Brussel,C1,F,fr,6,969,6.191950464396285,upper
+bien,Vrije Universiteit Brussel,C2,F,es,12,4875,2.4615384615384617,upper
+bien,Vrije Universiteit Brussel,C2,M,es,10,2277,4.391743522178305,upper
+bueno,Universidad de Sevilla,C2,F,es,10,2332,4.288164665523156,upper
+bueno,Universidad de Sevilla,C2,M,es,1,833,1.2004801920768307,upper
+bueno,Universita degli Studi di Palermo,B1,F,it,25,4299,5.815305885089556,lower
+bueno,Universita degli Studi di Palermo,B2,F,it,53,9519,5.56781174493119,upper
+bueno,Universita degli Studi di Palermo,B2,M,it,4,1321,3.028009084027252,upper
+bueno,Universita degli Studi di Palermo,C1,F,it,31,1837,16.875340228633643,upper
+bueno,Universita degli Studi di Palermo,C1,M,it,6,650,9.23076923076923,upper
+bueno,Univerza v Ljubljani,B1,F,sl,4,1000,4.0,lower
+bueno,Univerza v Ljubljani,B2,F,it,1,414,2.4154589371980677,upper
+bueno,Univerza v Ljubljani,B2,F,sl,65,17595,3.6942313157146915,upper
+bueno,Univerza v Ljubljani,B2,M,sl,12,615,19.51219512195122,upper
+bueno,Univerza v Ljubljani,C1,F,sl,56,13120,4.2682926829268295,upper
+bueno,Univerza v Ljubljani,C1,M,mk,1,459,2.178649237472767,upper
+bueno,Univerza v Ljubljani,C1,M,sl,1,928,1.0775862068965518,upper
+bueno,Univerza v Ljubljani,C2,F,es,4,2942,1.3596193065941535,upper
+bueno,Univerza v Ljubljani,C2,F,sl,2,659,3.0349013657056148,upper
+bueno,Univerza v Ljubljani,C2,M,es,7,1217,5.751848808545604,upper
+bueno,Vrije Universiteit Brussel,B1,F,nl,7,4082,1.7148456638902498,lower
+bueno,Vrije Universiteit Brussel,B1,M,en,2,475,4.2105263157894735,lower
+bueno,Vrije Universiteit Brussel,B1,M,nl,1,1582,0.6321112515802781,lower
+bueno,Vrije Universiteit Brussel,B2,F,fr,21,1468,14.30517711171662,upper
+bueno,Vrije Universiteit Brussel,B2,F,nl,9,2033,4.426955238563699,upper
+bueno,Vrije Universiteit Brussel,C1,F,fr,12,969,12.38390092879257,upper
+bueno,Vrije Universiteit Brussel,C2,F,es,32,4875,6.564102564102564,upper
+bueno,Vrije Universiteit Brussel,C2,M,es,11,2277,4.830917874396135,upper
+básicamente,Univerza v Ljubljani,C1,F,sl,1,13120,0.07621951219512195,upper
+básicamente,Univerza v Ljubljani,C2,F,es,2,2942,0.6798096532970768,upper
+básicamente,Univerza v Ljubljani,C2,F,sl,1,659,1.5174506828528074,upper
+básicamente,Univerza v Ljubljani,C2,M,es,2,1217,1.6433853738701725,upper
+básicamente,Vrije Universiteit Brussel,C2,F,es,2,4875,0.41025641025641024,upper
+claramente,Universita degli Studi di Palermo,B1,F,it,5,4299,1.1630611770179111,lower
+claramente,Universita degli Studi di Palermo,B2,F,it,2,9519,0.21010610358230908,upper
+claro,Universidad de Sevilla,C2,F,es,8,2332,3.4305317324185247,upper
+claro,Universidad de Sevilla,C2,M,es,5,833,6.002400960384153,upper
+claro,Universita degli Studi di Palermo,B1,F,it,9,4299,2.0935101186322402,lower
+claro,Universita degli Studi di Palermo,B2,F,it,27,9519,2.8364323983611723,upper
+claro,Universita degli Studi di Palermo,B2,M,it,4,1321,3.028009084027252,upper
+claro,Universita degli Studi di Palermo,C1,F,it,2,1837,1.0887316276537833,upper
+claro,Univerza v Ljubljani,B1,F,sl,3,1000,3.0,lower
+claro,Univerza v Ljubljani,B2,F,sl,21,17595,1.1935208866155158,upper
+claro,Univerza v Ljubljani,B2,F,sr,2,376,5.319148936170213,upper
+claro,Univerza v Ljubljani,B2,M,sl,4,615,6.504065040650406,upper
+claro,Univerza v Ljubljani,C1,F,sl,14,13120,1.0670731707317074,upper
+claro,Univerza v Ljubljani,C2,F,es,20,2942,6.798096532970768,upper
+claro,Univerza v Ljubljani,C2,M,es,2,1217,1.6433853738701725,upper
+claro,Vrije Universiteit Brussel,B1,F,ro,1,535,1.8691588785046729,lower
+claro,Vrije Universiteit Brussel,B1,M,fr,12,704,17.045454545454547,lower
+claro,Vrije Universiteit Brussel,B2,F,fr,9,1468,6.130790190735695,upper
+claro,Vrije Universiteit Brussel,B2,F,nl,9,2033,4.426955238563699,upper
+claro,Vrije Universiteit Brussel,C1,F,fr,3,969,3.0959752321981426,upper
+claro,Vrije Universiteit Brussel,C2,F,es,13,4875,2.6666666666666665,upper
+claro,Vrije Universiteit Brussel,C2,M,es,8,2277,3.5133948177426437,upper
+completamente,Univerza v Ljubljani,B2,F,sl,7,17595,0.39784029553850525,upper
+completamente,Univerza v Ljubljani,C1,F,sl,1,13120,0.07621951219512195,upper
+completamente,Univerza v Ljubljani,C2,F,sl,6,659,9.104704097116844,upper
+completamente,Vrije Universiteit Brussel,B1,F,nl,1,4082,0.2449779519843214,lower
+completamente,Vrije Universiteit Brussel,B1,M,fr,1,704,1.4204545454545454,lower
+completamente,Vrije Universiteit Brussel,B2,F,nl,2,2033,0.9837678307919331,upper
+completamente,Vrije Universiteit Brussel,C1,F,fr,1,969,1.0319917440660475,upper
+completamente,Vrije Universiteit Brussel,C2,F,es,1,4875,0.20512820512820512,upper
+de acuerdo,Universidad de Sevilla,C2,M,es,1,833,1.2004801920768307,upper
+de acuerdo,Universita degli Studi di Palermo,A2,F,it,1,540,1.8518518518518519,lower
+de acuerdo,Universita degli Studi di Palermo,B1,F,it,2,4299,0.46522447080716445,lower
+de acuerdo,Universita degli Studi di Palermo,B2,F,it,4,9519,0.42021220716461816,upper
+de acuerdo,Univerza v Ljubljani,B1,F,sl,1,1000,1.0,lower
+de acuerdo,Univerza v Ljubljani,B2,F,sl,14,17595,0.7956805910770105,upper
+de acuerdo,Univerza v Ljubljani,B2,F,sr,1,376,2.6595744680851063,upper
+de acuerdo,Univerza v Ljubljani,C1,F,sl,17,13120,1.295731707317073,upper
+de acuerdo,Univerza v Ljubljani,C1,M,mk,2,459,4.357298474945534,upper
+de acuerdo,Univerza v Ljubljani,C1,M,sl,1,928,1.0775862068965518,upper
+de acuerdo,Univerza v Ljubljani,C2,F,es,1,2942,0.3399048266485384,upper
+de acuerdo,Univerza v Ljubljani,C2,F,sl,3,659,4.552352048558422,upper
+de acuerdo,Vrije Universiteit Brussel,B1,F,nl,3,4082,0.7349338559529642,lower
+de acuerdo,Vrije Universiteit Brussel,B1,M,nl,1,1582,0.6321112515802781,lower
+de acuerdo,Vrije Universiteit Brussel,B2,F,fr,1,1468,0.6811989100817438,upper
+de alguna forma,Universita degli Studi di Palermo,B2,M,it,1,1321,0.757002271006813,upper
+de alguna manera,Universita degli Studi di Palermo,B1,F,it,1,4299,0.23261223540358222,lower
+de alguna manera,Univerza v Ljubljani,B2,F,sl,1,17595,0.05683432793407218,upper
+de alguna manera,Univerza v Ljubljani,C1,F,sl,2,13120,0.1524390243902439,upper
+de alguna manera,Vrije Universiteit Brussel,B1,F,ro,1,535,1.8691588785046729,lower
+de alguna manera,Vrije Universiteit Brussel,C2,F,es,2,4875,0.41025641025641024,upper
+de hecho,Universidad de Sevilla,C2,F,es,1,2332,0.4288164665523156,upper
+de hecho,Universita degli Studi di Palermo,A2,F,it,1,540,1.8518518518518519,lower
+de hecho,Universita degli Studi di Palermo,B1,F,it,1,4299,0.23261223540358222,lower
+de hecho,Universita degli Studi di Palermo,B2,F,it,2,9519,0.21010610358230908,upper
+de hecho,Universita degli Studi di Palermo,B2,M,it,4,1321,3.028009084027252,upper
+de hecho,Universita degli Studi di Palermo,C1,M,it,1,650,1.5384615384615385,upper
+de hecho,Univerza v Ljubljani,B2,F,sl,2,17595,0.11366865586814436,upper
+de hecho,Univerza v Ljubljani,C1,F,sl,1,13120,0.07621951219512195,upper
+de hecho,Vrije Universiteit Brussel,B1,M,en,1,475,2.1052631578947367,lower
+de hecho,Vrije Universiteit Brussel,C2,F,es,4,4875,0.8205128205128205,upper
+de hecho,Vrije Universiteit Brussel,C2,M,es,1,2277,0.43917435221783047,upper
+de todas formas,Universita degli Studi di Palermo,C1,M,it,1,650,1.5384615384615385,upper
+de todos modos,Univerza v Ljubljani,B2,F,sl,1,17595,0.05683432793407218,upper
+de verdad,Universidad de Sevilla,C2,M,es,5,833,6.002400960384153,upper
+de verdad,Universita degli Studi di Palermo,B2,F,it,7,9519,0.7353713625380818,upper
+de verdad,Universita degli Studi di Palermo,C1,F,it,1,1837,0.5443658138268916,upper
+de verdad,Univerza v Ljubljani,B2,F,sl,22,17595,1.250355214549588,upper
+de verdad,Univerza v Ljubljani,C1,F,sl,15,13120,1.1432926829268293,upper
+de verdad,Univerza v Ljubljani,C1,M,mk,1,459,2.178649237472767,upper
+de verdad,Univerza v Ljubljani,C2,F,sl,4,659,6.0698027314112295,upper
+de verdad,Vrije Universiteit Brussel,B1,F,nl,4,4082,0.9799118079372856,lower
+de verdad,Vrije Universiteit Brussel,B2,F,fr,3,1468,2.043596730245232,upper
+de verdad,Vrije Universiteit Brussel,C2,F,es,1,4875,0.20512820512820512,upper
+definitivamente,Univerza v Ljubljani,B2,F,sl,4,17595,0.2273373117362887,upper
+desde luego,Universidad de Sevilla,C2,F,es,1,2332,0.4288164665523156,upper
+desde luego,Vrije Universiteit Brussel,C2,M,es,2,2277,0.8783487044356609,upper
+digamos,Universita degli Studi di Palermo,B2,F,it,5,9519,0.5252652589557727,upper
+digamos,Universita degli Studi di Palermo,B2,M,it,5,1321,3.785011355034065,upper
+digamos,Universita degli Studi di Palermo,C1,F,it,16,1837,8.709853021230266,upper
+digamos,Univerza v Ljubljani,B2,F,sl,3,17595,0.17050298380221654,upper
+digamos,Univerza v Ljubljani,B2,F,sr,4,376,10.638297872340425,upper
+digamos,Univerza v Ljubljani,C1,F,sl,6,13120,0.4573170731707317,upper
+digamos,Vrije Universiteit Brussel,C2,F,es,3,4875,0.6153846153846154,upper
+en cambio,Universita degli Studi di Palermo,B1,F,it,1,4299,0.23261223540358222,lower
+en cambio,Universita degli Studi di Palermo,B2,F,it,1,9519,0.10505305179115454,upper
+en ese sentido,Universidad de Sevilla,C2,F,es,1,2332,0.4288164665523156,upper
+en ese sentido,Univerza v Ljubljani,C2,M,es,1,1217,0.8216926869350862,upper
+en ese sentido,Vrije Universiteit Brussel,C2,M,es,1,2277,0.43917435221783047,upper
+en fin,Univerza v Ljubljani,C2,M,es,1,1217,0.8216926869350862,upper
+en general,Universita degli Studi di Palermo,B1,F,it,3,4299,0.6978367062107467,lower
+en general,Universita degli Studi di Palermo,B2,F,it,4,9519,0.42021220716461816,upper
+en general,Universita degli Studi di Palermo,B2,M,it,5,1321,3.785011355034065,upper
+en general,Universita degli Studi di Palermo,C1,F,it,1,1837,0.5443658138268916,upper
+en general,Univerza v Ljubljani,B1,F,sl,1,1000,1.0,lower
+en general,Univerza v Ljubljani,B2,F,sl,7,17595,0.39784029553850525,upper
+en general,Univerza v Ljubljani,C1,F,sl,6,13120,0.4573170731707317,upper
+en general,Univerza v Ljubljani,C2,M,es,1,1217,0.8216926869350862,upper
+en general,Vrije Universiteit Brussel,B1,F,nl,5,4082,1.224889759921607,lower
+en general,Vrije Universiteit Brussel,C2,F,es,5,4875,1.0256410256410255,upper
+en general,Vrije Universiteit Brussel,C2,M,es,2,2277,0.8783487044356609,upper
+en particular,Universita degli Studi di Palermo,B2,F,it,2,9519,0.21010610358230908,upper
+en realidad,Universita degli Studi di Palermo,B1,F,it,4,4299,0.9304489416143289,lower
+en realidad,Universita degli Studi di Palermo,B2,F,it,5,9519,0.5252652589557727,upper
+en realidad,Universita degli Studi di Palermo,C1,F,it,3,1837,1.633097441480675,upper
+en realidad,Univerza v Ljubljani,B2,F,sl,3,17595,0.17050298380221654,upper
+en realidad,Univerza v Ljubljani,C1,F,sl,14,13120,1.0670731707317074,upper
+en realidad,Univerza v Ljubljani,C2,F,es,1,2942,0.3399048266485384,upper
+en realidad,Vrije Universiteit Brussel,B1,M,nl,1,1582,0.6321112515802781,lower
+en realidad,Vrije Universiteit Brussel,B2,F,fr,2,1468,1.3623978201634876,upper
+en realidad,Vrije Universiteit Brussel,C1,F,es,1,429,2.331002331002331,upper
+en realidad,Vrije Universiteit Brussel,C2,F,es,4,4875,0.8205128205128205,upper
+en verdad,Universidad de Sevilla,C2,M,es,1,833,1.2004801920768307,upper
+en verdad,Universita degli Studi di Palermo,B1,F,it,1,4299,0.23261223540358222,lower
+en verdad,Univerza v Ljubljani,C1,F,sl,1,13120,0.07621951219512195,upper
+en verdad,Univerza v Ljubljani,C2,F,es,1,2942,0.3399048266485384,upper
+en verdad,Vrije Universiteit Brussel,B1,F,ro,2,535,3.7383177570093458,lower
+entonces,Universidad de Sevilla,C2,F,es,5,2332,2.144082332761578,upper
+entonces,Universidad de Sevilla,C2,M,es,9,833,10.804321728691477,upper
+entonces,Universita degli Studi di Palermo,B1,F,it,2,4299,0.46522447080716445,lower
+entonces,Universita degli Studi di Palermo,B2,F,it,48,9519,5.042546485975418,upper
+entonces,Universita degli Studi di Palermo,B2,M,it,7,1321,5.299015897047691,upper
+entonces,Universita degli Studi di Palermo,C1,F,it,1,1837,0.5443658138268916,upper
+entonces,Universita degli Studi di Palermo,C1,M,it,1,650,1.5384615384615385,upper
+entonces,Univerza v Ljubljani,B2,F,it,1,414,2.4154589371980677,upper
+entonces,Univerza v Ljubljani,B2,F,sl,45,17595,2.557544757033248,upper
+entonces,Univerza v Ljubljani,C1,F,sl,13,13120,0.9908536585365854,upper
+entonces,Univerza v Ljubljani,C1,M,mk,3,459,6.5359477124183005,upper
+entonces,Univerza v Ljubljani,C2,F,es,23,2942,7.817811012916383,upper
+entonces,Univerza v Ljubljani,C2,M,es,5,1217,4.108463434675431,upper
+entonces,Vrije Universiteit Brussel,A2,M,fr,1,337,2.9673590504451037,lower
+entonces,Vrije Universiteit Brussel,B1,M,nl,2,1582,1.2642225031605563,lower
+entonces,Vrije Universiteit Brussel,B2,F,fr,3,1468,2.043596730245232,upper
+entonces,Vrije Universiteit Brussel,B2,F,nl,13,2033,6.394490900147566,upper
+entonces,Vrije Universiteit Brussel,C1,F,es,2,429,4.662004662004662,upper
+entonces,Vrije Universiteit Brussel,C1,F,fr,6,969,6.191950464396285,upper
+entonces,Vrije Universiteit Brussel,C2,F,es,22,4875,4.512820512820513,upper
+entonces,Vrije Universiteit Brussel,C2,M,es,19,2277,8.344312692138779,upper
+es decir,Univerza v Ljubljani,B2,F,sl,2,17595,0.11366865586814436,upper
+es decir,Univerza v Ljubljani,C1,F,sl,3,13120,0.22865853658536586,upper
+es decir,Univerza v Ljubljani,C2,F,es,2,2942,0.6798096532970768,upper
+es decir,Vrije Universiteit Brussel,B2,F,nl,1,2033,0.49188391539596654,upper
+es decir,Vrije Universiteit Brussel,C1,F,fr,1,969,1.0319917440660475,upper
+es decir,Vrije Universiteit Brussel,C2,F,es,1,4875,0.20512820512820512,upper
+es decir,Vrije Universiteit Brussel,C2,M,es,1,2277,0.43917435221783047,upper
+eso sí,Universita degli Studi di Palermo,C1,F,it,1,1837,0.5443658138268916,upper
+eso sí,Universita degli Studi di Palermo,C1,M,it,1,650,1.5384615384615385,upper
+eso sí,Univerza v Ljubljani,B2,F,sl,1,17595,0.05683432793407218,upper
+eso sí,Univerza v Ljubljani,C1,F,sl,2,13120,0.1524390243902439,upper
+eso sí,Vrije Universiteit Brussel,B2,F,nl,2,2033,0.9837678307919331,upper
+especialmente,Universita degli Studi di Palermo,B1,F,it,3,4299,0.6978367062107467,lower
+especialmente,Universita degli Studi di Palermo,B2,F,it,1,9519,0.10505305179115454,upper
+especialmente,Univerza v Ljubljani,B2,F,sl,4,17595,0.2273373117362887,upper
+especialmente,Univerza v Ljubljani,C1,F,sl,4,13120,0.3048780487804878,upper
+especialmente,Vrije Universiteit Brussel,B1,F,nl,2,4082,0.4899559039686428,lower
+especialmente,Vrije Universiteit Brussel,B1,F,ro,1,535,1.8691588785046729,lower
+exactamente,Universita degli Studi di Palermo,B1,F,it,4,4299,0.9304489416143289,lower
+exactamente,Universita degli Studi di Palermo,B2,F,it,2,9519,0.21010610358230908,upper
+exactamente,Univerza v Ljubljani,B1,F,sl,1,1000,1.0,lower
+exactamente,Univerza v Ljubljani,B2,F,sl,2,17595,0.11366865586814436,upper
+exactamente,Univerza v Ljubljani,C2,M,es,2,1217,1.6433853738701725,upper
+exactamente,Vrije Universiteit Brussel,B1,F,fr,1,330,3.0303030303030303,lower
+exactamente,Vrije Universiteit Brussel,B1,F,nl,2,4082,0.4899559039686428,lower
+exactamente,Vrije Universiteit Brussel,B1,M,fr,1,704,1.4204545454545454,lower
+exactamente,Vrije Universiteit Brussel,B1,M,nl,1,1582,0.6321112515802781,lower
+exacto,Universidad de Sevilla,C2,F,es,1,2332,0.4288164665523156,upper
+exacto,Universita degli Studi di Palermo,B1,F,it,6,4299,1.3956734124214933,lower
+exacto,Universita degli Studi di Palermo,B2,F,it,4,9519,0.42021220716461816,upper
+exacto,Univerza v Ljubljani,B2,F,sl,1,17595,0.05683432793407218,upper
+exacto,Vrije Universiteit Brussel,C1,F,es,1,429,2.331002331002331,upper
+exacto,Vrije Universiteit Brussel,C2,F,es,3,4875,0.6153846153846154,upper
+fíjate,Univerza v Ljubljani,B2,M,sl,1,615,1.6260162601626016,upper
+fíjate,Univerza v Ljubljani,C1,F,sl,2,13120,0.1524390243902439,upper
+hasta,Universidad de Sevilla,C2,F,es,3,2332,1.2864493996569468,upper
+hasta,Universidad de Sevilla,C2,M,es,1,833,1.2004801920768307,upper
+hasta,Universita degli Studi di Palermo,B2,F,it,3,9519,0.3151591553734636,upper
+hasta,Universita degli Studi di Palermo,B2,M,it,1,1321,0.757002271006813,upper
+hasta,Univerza v Ljubljani,B2,F,sl,10,17595,0.5683432793407218,upper
+hasta,Univerza v Ljubljani,C1,F,sl,6,13120,0.4573170731707317,upper
+hasta,Univerza v Ljubljani,C2,F,es,2,2942,0.6798096532970768,upper
+hasta,Univerza v Ljubljani,C2,M,es,2,1217,1.6433853738701725,upper
+hasta,Vrije Universiteit Brussel,B1,F,ro,1,535,1.8691588785046729,lower
+hasta,Vrije Universiteit Brussel,B1,M,nl,1,1582,0.6321112515802781,lower
+hasta,Vrije Universiteit Brussel,B2,F,fr,1,1468,0.6811989100817438,upper
+hasta,Vrije Universiteit Brussel,B2,F,nl,1,2033,0.49188391539596654,upper
+hasta,Vrije Universiteit Brussel,C2,F,es,5,4875,1.0256410256410255,upper
+hasta,Vrije Universiteit Brussel,C2,M,es,1,2277,0.43917435221783047,upper
+hombre,Universita degli Studi di Palermo,B2,F,it,1,9519,0.10505305179115454,upper
+hombre,Univerza v Ljubljani,B2,F,sl,1,17595,0.05683432793407218,upper
+hombre,Univerza v Ljubljani,B2,M,sl,1,615,1.6260162601626016,upper
+hombre,Univerza v Ljubljani,C1,F,sl,4,13120,0.3048780487804878,upper
+hombre,Univerza v Ljubljani,C2,F,es,2,2942,0.6798096532970768,upper
+hombre,Vrije Universiteit Brussel,C2,F,es,2,4875,0.41025641025641024,upper
+hombre,Vrije Universiteit Brussel,C2,M,es,6,2277,2.635046113306983,upper
+igual,Universidad de Sevilla,C2,F,es,4,2332,1.7152658662092624,upper
+igual,Universita degli Studi di Palermo,B1,F,it,1,4299,0.23261223540358222,lower
+igual,Universita degli Studi di Palermo,B2,F,it,3,9519,0.3151591553734636,upper
+igual,Univerza v Ljubljani,B1,F,sl,1,1000,1.0,lower
+igual,Univerza v Ljubljani,B2,F,sl,3,17595,0.17050298380221654,upper
+igual,Univerza v Ljubljani,C1,F,sl,3,13120,0.22865853658536586,upper
+igual,Univerza v Ljubljani,C1,M,sl,3,928,3.2327586206896552,upper
+igual,Univerza v Ljubljani,C2,F,es,1,2942,0.3399048266485384,upper
+igual,Univerza v Ljubljani,C2,M,es,2,1217,1.6433853738701725,upper
+igual,Vrije Universiteit Brussel,A2,F,nl,1,452,2.2123893805309733,lower
+igual,Vrije Universiteit Brussel,C2,F,es,9,4875,1.8461538461538463,upper
+incluso,Universita degli Studi di Palermo,B2,F,it,3,9519,0.3151591553734636,upper
+incluso,Universita degli Studi di Palermo,B2,M,it,1,1321,0.757002271006813,upper
+incluso,Univerza v Ljubljani,C1,F,sl,1,13120,0.07621951219512195,upper
+incluso,Univerza v Ljubljani,C2,F,es,4,2942,1.3596193065941535,upper
+incluso,Vrije Universiteit Brussel,B2,F,nl,1,2033,0.49188391539596654,upper
+incluso,Vrije Universiteit Brussel,C2,F,es,1,4875,0.20512820512820512,upper
+incluso,Vrije Universiteit Brussel,C2,M,es,4,2277,1.7566974088713219,upper
+justamente,Univerza v Ljubljani,B2,F,sl,1,17595,0.05683432793407218,upper
+justamente,Univerza v Ljubljani,C1,M,sl,1,928,1.0775862068965518,upper
+justamente,Vrije Universiteit Brussel,B2,F,nl,1,2033,0.49188391539596654,upper
+justamente,Vrije Universiteit Brussel,C2,F,es,1,4875,0.20512820512820512,upper
+justo,Univerza v Ljubljani,B2,F,sl,3,17595,0.17050298380221654,upper
+justo,Univerza v Ljubljani,C1,F,sl,2,13120,0.1524390243902439,upper
+justo,Univerza v Ljubljani,C2,F,sl,3,659,4.552352048558422,upper
+la verdad,Universidad de Sevilla,C2,F,es,2,2332,0.8576329331046312,upper
+la verdad,Universidad de Sevilla,C2,M,es,2,833,2.4009603841536613,upper
+la verdad,Universita degli Studi di Palermo,B1,F,it,1,4299,0.23261223540358222,lower
+la verdad,Universita degli Studi di Palermo,B2,F,it,1,9519,0.10505305179115454,upper
+la verdad,Universita degli Studi di Palermo,B2,M,it,1,1321,0.757002271006813,upper
+la verdad,Universita degli Studi di Palermo,C1,M,it,2,650,3.076923076923077,upper
+la verdad,Univerza v Ljubljani,B2,F,it,1,414,2.4154589371980677,upper
+la verdad,Univerza v Ljubljani,B2,F,sl,1,17595,0.05683432793407218,upper
+la verdad,Univerza v Ljubljani,C2,F,es,3,2942,1.0197144799456153,upper
+la verdad,Univerza v Ljubljani,C2,M,es,1,1217,0.8216926869350862,upper
+la verdad,Vrije Universiteit Brussel,C2,F,es,3,4875,0.6153846153846154,upper
+la verdad,Vrije Universiteit Brussel,C2,M,es,2,2277,0.8783487044356609,upper
+menos mal,Universidad de Sevilla,C2,F,es,2,2332,0.8576329331046312,upper
+menos mal,Universidad de Sevilla,C2,M,es,2,833,2.4009603841536613,upper
+mira,Universidad de Sevilla,C2,F,es,2,2332,0.8576329331046312,upper
+mira,Universidad de Sevilla,C2,M,es,1,833,1.2004801920768307,upper
+mira,Univerza v Ljubljani,B2,M,sl,1,615,1.6260162601626016,upper
+más bien,Univerza v Ljubljani,B2,F,sl,1,17595,0.05683432793407218,upper
+más bien,Univerza v Ljubljani,C1,F,sl,4,13120,0.3048780487804878,upper
+más bien,Univerza v Ljubljani,C2,F,sl,1,659,1.5174506828528074,upper
+más o menos,Universidad de Sevilla,C2,F,es,1,2332,0.4288164665523156,upper
+más o menos,Universita degli Studi di Palermo,B2,F,it,1,9519,0.10505305179115454,upper
+más o menos,Universita degli Studi di Palermo,C1,M,it,1,650,1.5384615384615385,upper
+más o menos,Univerza v Ljubljani,B2,F,sl,2,17595,0.11366865586814436,upper
+más o menos,Univerza v Ljubljani,C1,F,sl,2,13120,0.1524390243902439,upper
+más o menos,Univerza v Ljubljani,C1,M,mk,1,459,2.178649237472767,upper
+más o menos,Univerza v Ljubljani,C1,M,sl,1,928,1.0775862068965518,upper
+más o menos,Univerza v Ljubljani,C2,M,es,1,1217,0.8216926869350862,upper
+más o menos,Vrije Universiteit Brussel,B1,F,nl,1,4082,0.2449779519843214,lower
+más o menos,Vrije Universiteit Brussel,C2,M,es,1,2277,0.43917435221783047,upper
+nada,Universidad de Sevilla,C2,F,es,4,2332,1.7152658662092624,upper
+nada,Universidad de Sevilla,C2,M,es,3,833,3.6014405762304924,upper
+nada,Universita degli Studi di Palermo,B1,F,it,17,4299,3.954408001860898,lower
+nada,Universita degli Studi di Palermo,B2,F,it,24,9519,2.521273242987709,upper
+nada,Universita degli Studi di Palermo,C1,F,it,4,1837,2.1774632553075666,upper
+nada,Universita degli Studi di Palermo,C1,M,it,2,650,3.076923076923077,upper
+nada,Univerza v Ljubljani,B1,F,sl,4,1000,4.0,lower
+nada,Univerza v Ljubljani,B2,F,it,1,414,2.4154589371980677,upper
+nada,Univerza v Ljubljani,B2,F,sl,24,17595,1.3640238704177323,upper
+nada,Univerza v Ljubljani,B2,F,sr,1,376,2.6595744680851063,upper
+nada,Univerza v Ljubljani,C1,F,sl,16,13120,1.2195121951219512,upper
+nada,Univerza v Ljubljani,C1,M,mk,1,459,2.178649237472767,upper
+nada,Univerza v Ljubljani,C2,F,es,3,2942,1.0197144799456153,upper
+nada,Univerza v Ljubljani,C2,F,sl,1,659,1.5174506828528074,upper
+nada,Univerza v Ljubljani,C2,M,es,1,1217,0.8216926869350862,upper
+nada,Vrije Universiteit Brussel,B1,F,nl,1,4082,0.2449779519843214,lower
+nada,Vrije Universiteit Brussel,B1,F,ro,1,535,1.8691588785046729,lower
+nada,Vrije Universiteit Brussel,B2,F,fr,5,1468,3.4059945504087192,upper
+nada,Vrije Universiteit Brussel,B2,F,nl,3,2033,1.4756517461878997,upper
+nada,Vrije Universiteit Brussel,C2,F,es,7,4875,1.435897435897436,upper
+nada,Vrije Universiteit Brussel,C2,M,es,1,2277,0.43917435221783047,upper
+ni siquiera,Universita degli Studi di Palermo,B1,F,it,1,4299,0.23261223540358222,lower
+ni siquiera,Universita degli Studi di Palermo,B2,F,it,1,9519,0.10505305179115454,upper
+ni siquiera,Univerza v Ljubljani,B2,F,sl,3,17595,0.17050298380221654,upper
+ni siquiera,Univerza v Ljubljani,C1,F,sl,1,13120,0.07621951219512195,upper
+ni siquiera,Univerza v Ljubljani,C2,F,sl,5,659,7.587253414264036,upper
+no sé,Universidad de Sevilla,C2,F,es,19,2332,8.147512864493997,upper
+no sé,Universidad de Sevilla,C2,M,es,2,833,2.4009603841536613,upper
+no sé,Universita degli Studi di Palermo,B1,F,it,11,4299,2.5587345894394047,lower
+no sé,Universita degli Studi di Palermo,B2,F,it,67,9519,7.0385544700073535,upper
+no sé,Universita degli Studi di Palermo,B2,M,it,17,1321,12.86903860711582,upper
+no sé,Universita degli Studi di Palermo,C1,F,it,7,1837,3.8105606967882415,upper
+no sé,Universita degli Studi di Palermo,C1,M,it,3,650,4.615384615384615,upper
+no sé,Univerza v Ljubljani,B1,F,sl,7,1000,7.0,lower
+no sé,Univerza v Ljubljani,B2,F,it,1,414,2.4154589371980677,upper
+no sé,Univerza v Ljubljani,B2,F,sl,166,17595,9.434498437055982,upper
+no sé,Univerza v Ljubljani,B2,F,sr,1,376,2.6595744680851063,upper
+no sé,Univerza v Ljubljani,B2,M,sl,8,615,13.008130081300813,upper
+no sé,Univerza v Ljubljani,C1,F,sl,100,13120,7.621951219512195,upper
+no sé,Univerza v Ljubljani,C1,M,mk,8,459,17.429193899782135,upper
+no sé,Univerza v Ljubljani,C1,M,sl,9,928,9.698275862068966,upper
+no sé,Univerza v Ljubljani,C2,F,es,11,2942,3.7389530931339223,upper
+no sé,Univerza v Ljubljani,C2,F,sl,21,659,31.86646433990895,upper
+no sé,Univerza v Ljubljani,C2,M,es,4,1217,3.286770747740345,upper
+no sé,Vrije Universiteit Brussel,A2,F,nl,3,452,6.6371681415929205,lower
+no sé,Vrije Universiteit Brussel,A2,M,fr,1,337,2.9673590504451037,lower
+no sé,Vrije Universiteit Brussel,B1,F,fr,2,330,6.0606060606060606,lower
+no sé,Vrije Universiteit Brussel,B1,F,nl,18,4082,4.409603135717785,lower
+no sé,Vrije Universiteit Brussel,B1,F,ro,6,535,11.214953271028037,lower
+no sé,Vrije Universiteit Brussel,B1,M,en,4,475,8.421052631578947,lower
+no sé,Vrije Universiteit Brussel,B1,M,fr,4,704,5.681818181818182,lower
+no sé,Vrije Universiteit Brussel,B1,M,nl,6,1582,3.7926675094816686,lower
+no sé,Vrije Universiteit Brussel,B2,F,fr,18,1468,12.26158038147139,upper
+no sé,Vrije Universiteit Brussel,B2,F,nl,13,2033,6.394490900147566,upper
+no sé,Vrije Universiteit Brussel,C1,F,es,5,429,11.655011655011656,upper
+no sé,Vrije Universiteit Brussel,C1,F,fr,8,969,8.25593395252838,upper
+no sé,Vrije Universiteit Brussel,C2,F,es,20,4875,4.102564102564102,upper
+no sé,Vrije Universiteit Brussel,C2,M,es,9,2277,3.952569169960474,upper
+o sea,Universidad de Sevilla,C2,F,es,4,2332,1.7152658662092624,upper
+o sea,Universita degli Studi di Palermo,B1,F,it,2,4299,0.46522447080716445,lower
+o sea,Universita degli Studi di Palermo,B2,F,it,5,9519,0.5252652589557727,upper
+o sea,Universita degli Studi di Palermo,B2,M,it,7,1321,5.299015897047691,upper
+o sea,Universita degli Studi di Palermo,C1,F,it,7,1837,3.8105606967882415,upper
+o sea,Universita degli Studi di Palermo,C1,M,it,15,650,23.076923076923077,upper
+o sea,Univerza v Ljubljani,B1,F,sl,3,1000,3.0,lower
+o sea,Univerza v Ljubljani,B2,F,sl,17,17595,0.966183574879227,upper
+o sea,Univerza v Ljubljani,C1,F,sl,26,13120,1.9817073170731707,upper
+o sea,Univerza v Ljubljani,C2,F,es,6,2942,2.0394289598912305,upper
+o sea,Univerza v Ljubljani,C2,F,sl,8,659,12.139605462822459,upper
+o sea,Univerza v Ljubljani,C2,M,es,2,1217,1.6433853738701725,upper
+o sea,Vrije Universiteit Brussel,B2,F,nl,3,2033,1.4756517461878997,upper
+o sea,Vrije Universiteit Brussel,C2,F,es,17,4875,3.4871794871794872,upper
+o sea,Vrije Universiteit Brussel,C2,M,es,3,2277,1.3175230566534915,upper
+obviamente,Universita degli Studi di Palermo,B1,F,it,1,4299,0.23261223540358222,lower
+obviamente,Universita degli Studi di Palermo,B2,F,it,1,9519,0.10505305179115454,upper
+obviamente,Universita degli Studi di Palermo,C1,F,it,1,1837,0.5443658138268916,upper
+obviamente,Universita degli Studi di Palermo,C1,M,it,1,650,1.5384615384615385,upper
+obviamente,Univerza v Ljubljani,B2,F,it,2,414,4.830917874396135,upper
+obviamente,Vrije Universiteit Brussel,B1,F,nl,1,4082,0.2449779519843214,lower
+obviamente,Vrije Universiteit Brussel,C2,F,es,1,4875,0.20512820512820512,upper
+obviamente,Vrije Universiteit Brussel,C2,M,es,1,2277,0.43917435221783047,upper
+oye,Universita degli Studi di Palermo,B1,F,it,1,4299,0.23261223540358222,lower
+oye,Univerza v Ljubljani,B2,M,sl,2,615,3.252032520325203,upper
+oye,Univerza v Ljubljani,C1,F,sl,2,13120,0.1524390243902439,upper
+perdona,Universita degli Studi di Palermo,B2,F,it,1,9519,0.10505305179115454,upper
+perdona,Universita degli Studi di Palermo,C1,F,it,3,1837,1.633097441480675,upper
+perdona,Univerza v Ljubljani,B2,F,sr,1,376,2.6595744680851063,upper
+perdona,Univerza v Ljubljani,C1,F,sl,2,13120,0.1524390243902439,upper
+perdón,Universidad de Sevilla,C2,F,es,1,2332,0.4288164665523156,upper
+perdón,Univerza v Ljubljani,B2,F,sl,1,17595,0.05683432793407218,upper
+perdón,Univerza v Ljubljani,C1,F,sl,7,13120,0.5335365853658537,upper
+perdón,Univerza v Ljubljani,C2,M,es,2,1217,1.6433853738701725,upper
+perdón,Vrije Universiteit Brussel,B1,F,fr,1,330,3.0303030303030303,lower
+perdón,Vrije Universiteit Brussel,B1,M,en,1,475,2.1052631578947367,lower
+perdón,Vrije Universiteit Brussel,B1,M,fr,3,704,4.261363636363637,lower
+perdón,Vrije Universiteit Brussel,B2,F,nl,2,2033,0.9837678307919331,upper
+perdón,Vrije Universiteit Brussel,C1,F,fr,1,969,1.0319917440660475,upper
+perdón,Vrije Universiteit Brussel,C2,F,es,2,4875,0.41025641025641024,upper
+pero,Universidad de Sevilla,C2,F,es,30,2332,12.864493996569468,upper
+pero,Universidad de Sevilla,C2,M,es,10,833,12.004801920768307,upper
+pero,Universita degli Studi di Palermo,A2,F,it,4,540,7.407407407407407,lower
+pero,Universita degli Studi di Palermo,B1,F,it,43,4299,10.002326122354036,lower
+pero,Universita degli Studi di Palermo,B2,F,it,97,9519,10.19014602374199,upper
+pero,Universita degli Studi di Palermo,B2,M,it,18,1321,13.626040878122634,upper
+pero,Universita degli Studi di Palermo,C1,F,it,19,1837,10.342950462710942,upper
+pero,Universita degli Studi di Palermo,C1,M,it,6,650,9.23076923076923,upper
+pero,Univerza v Ljubljani,B1,F,sl,16,1000,16.0,lower
+pero,Univerza v Ljubljani,B2,F,it,6,414,14.492753623188406,upper
+pero,Univerza v Ljubljani,B2,F,sl,180,17595,10.230179028132993,upper
+pero,Univerza v Ljubljani,B2,F,sr,2,376,5.319148936170213,upper
+pero,Univerza v Ljubljani,B2,M,sl,12,615,19.51219512195122,upper
+pero,Univerza v Ljubljani,C1,F,sl,128,13120,9.75609756097561,upper
+pero,Univerza v Ljubljani,C1,M,mk,5,459,10.893246187363834,upper
+pero,Univerza v Ljubljani,C1,M,sl,18,928,19.396551724137932,upper
+pero,Univerza v Ljubljani,C2,F,es,23,2942,7.817811012916383,upper
+pero,Univerza v Ljubljani,C2,F,sl,5,659,7.587253414264036,upper
+pero,Univerza v Ljubljani,C2,M,es,24,1217,19.72062448644207,upper
+pero,Vrije Universiteit Brussel,A2,F,nl,4,452,8.849557522123893,lower
+pero,Vrije Universiteit Brussel,A2,M,fr,3,337,8.90207715133531,lower
+pero,Vrije Universiteit Brussel,B1,F,fr,7,330,21.21212121212121,lower
+pero,Vrije Universiteit Brussel,B1,F,nl,44,4082,10.779029887310141,lower
+pero,Vrije Universiteit Brussel,B1,F,ro,8,535,14.953271028037383,lower
+pero,Vrije Universiteit Brussel,B1,M,en,6,475,12.631578947368421,lower
+pero,Vrije Universiteit Brussel,B1,M,fr,17,704,24.147727272727273,lower
+pero,Vrije Universiteit Brussel,B1,M,nl,28,1582,17.699115044247787,lower
+pero,Vrije Universiteit Brussel,B2,F,fr,18,1468,12.26158038147139,upper
+pero,Vrije Universiteit Brussel,B2,F,nl,33,2033,16.232169208066896,upper
+pero,Vrije Universiteit Brussel,C1,F,es,10,429,23.31002331002331,upper
+pero,Vrije Universiteit Brussel,C1,F,fr,12,969,12.38390092879257,upper
+pero,Vrije Universiteit Brussel,C2,F,es,62,4875,12.717948717948717,upper
+pero,Vrije Universiteit Brussel,C2,M,es,20,2277,8.78348704435661,upper
+por (lo) tanto,Universita degli Studi di Palermo,B1,F,it,3,4299,0.6978367062107467,lower
+por (lo) tanto,Universita degli Studi di Palermo,B2,F,it,10,9519,1.0505305179115454,upper
+por (lo) tanto,Univerza v Ljubljani,C1,F,sl,1,13120,0.07621951219512195,upper
+por (lo) tanto,Vrije Universiteit Brussel,C2,F,es,1,4875,0.20512820512820512,upper
+por (lo) tanto,Vrije Universiteit Brussel,C2,M,es,1,2277,0.43917435221783047,upper
+por cierto,Universidad de Sevilla,C2,F,es,1,2332,0.4288164665523156,upper
+por ejemplo,Universidad de Sevilla,C2,F,es,7,2332,3.0017152658662094,upper
+por ejemplo,Universidad de Sevilla,C2,M,es,2,833,2.4009603841536613,upper
+por ejemplo,Universita degli Studi di Palermo,A2,F,it,2,540,3.7037037037037037,lower
+por ejemplo,Universita degli Studi di Palermo,B1,F,it,27,4299,6.28053035589672,lower
+por ejemplo,Universita degli Studi di Palermo,B2,F,it,35,9519,3.6768568126904086,upper
+por ejemplo,Universita degli Studi di Palermo,B2,M,it,6,1321,4.5420136260408785,upper
+por ejemplo,Universita degli Studi di Palermo,C1,F,it,10,1837,5.443658138268916,upper
+por ejemplo,Universita degli Studi di Palermo,C1,M,it,2,650,3.076923076923077,upper
+por ejemplo,Univerza v Ljubljani,B1,F,sl,2,1000,2.0,lower
+por ejemplo,Univerza v Ljubljani,B2,F,sl,42,17595,2.3870417732310316,upper
+por ejemplo,Univerza v Ljubljani,B2,F,sr,3,376,7.9787234042553195,upper
+por ejemplo,Univerza v Ljubljani,B2,M,sl,3,615,4.878048780487805,upper
+por ejemplo,Univerza v Ljubljani,C1,F,sl,43,13120,3.277439024390244,upper
+por ejemplo,Univerza v Ljubljani,C1,M,mk,1,459,2.178649237472767,upper
+por ejemplo,Univerza v Ljubljani,C1,M,sl,3,928,3.2327586206896552,upper
+por ejemplo,Univerza v Ljubljani,C2,F,es,22,2942,7.477906186267845,upper
+por ejemplo,Univerza v Ljubljani,C2,M,es,1,1217,0.8216926869350862,upper
+por ejemplo,Vrije Universiteit Brussel,B1,F,nl,12,4082,2.939735423811857,lower
+por ejemplo,Vrije Universiteit Brussel,B1,F,ro,1,535,1.8691588785046729,lower
+por ejemplo,Vrije Universiteit Brussel,B1,M,fr,10,704,14.204545454545455,lower
+por ejemplo,Vrije Universiteit Brussel,B1,M,nl,9,1582,5.689001264222503,lower
+por ejemplo,Vrije Universiteit Brussel,B2,F,nl,3,2033,1.4756517461878997,upper
+por ejemplo,Vrije Universiteit Brussel,C1,F,es,1,429,2.331002331002331,upper
+por ejemplo,Vrije Universiteit Brussel,C1,F,fr,1,969,1.0319917440660475,upper
+por ejemplo,Vrije Universiteit Brussel,C2,F,es,17,4875,3.4871794871794872,upper
+por ejemplo,Vrije Universiteit Brussel,C2,M,es,10,2277,4.391743522178305,upper
+por el contrario,Univerza v Ljubljani,B2,F,sl,1,17595,0.05683432793407218,upper
+por eso,Universidad de Sevilla,C2,F,es,1,2332,0.4288164665523156,upper
+por eso,Universita degli Studi di Palermo,B1,F,it,1,4299,0.23261223540358222,lower
+por eso,Universita degli Studi di Palermo,B2,F,it,15,9519,1.575795776867318,upper
+por eso,Universita degli Studi di Palermo,B2,M,it,1,1321,0.757002271006813,upper
+por eso,Universita degli Studi di Palermo,C1,F,it,1,1837,0.5443658138268916,upper
+por eso,Univerza v Ljubljani,B2,F,sl,11,17595,0.625177607274794,upper
+por eso,Univerza v Ljubljani,C1,F,sl,5,13120,0.38109756097560976,upper
+por eso,Univerza v Ljubljani,C2,F,es,2,2942,0.6798096532970768,upper
+por eso,Vrije Universiteit Brussel,B1,F,nl,6,4082,1.4698677119059285,lower
+por eso,Vrije Universiteit Brussel,B1,M,nl,2,1582,1.2642225031605563,lower
+por eso,Vrije Universiteit Brussel,B2,F,fr,4,1468,2.7247956403269753,upper
+por eso,Vrije Universiteit Brussel,B2,F,nl,4,2033,1.9675356615838662,upper
+por eso,Vrije Universiteit Brussel,C1,F,fr,1,969,1.0319917440660475,upper
+por eso,Vrije Universiteit Brussel,C2,M,es,2,2277,0.8783487044356609,upper
+por lo menos,Universita degli Studi di Palermo,B1,F,it,3,4299,0.6978367062107467,lower
+por lo menos,Universita degli Studi di Palermo,B2,F,it,2,9519,0.21010610358230908,upper
+por lo menos,Univerza v Ljubljani,B2,F,sl,3,17595,0.17050298380221654,upper
+por lo menos,Univerza v Ljubljani,C1,F,sl,4,13120,0.3048780487804878,upper
+por lo menos,Univerza v Ljubljani,C2,F,sl,1,659,1.5174506828528074,upper
+por lo menos,Vrije Universiteit Brussel,C2,F,es,1,4875,0.20512820512820512,upper
+por lo menos,Vrije Universiteit Brussel,C2,M,es,1,2277,0.43917435221783047,upper
+por otra parte,Univerza v Ljubljani,C1,F,sl,2,13120,0.1524390243902439,upper
+por otro lado,Universidad de Sevilla,C2,F,es,2,2332,0.8576329331046312,upper
+por otro lado,Univerza v Ljubljani,C1,F,sl,3,13120,0.22865853658536586,upper
+por otro lado,Univerza v Ljubljani,C1,M,sl,1,928,1.0775862068965518,upper
+por supuesto,Universita degli Studi di Palermo,B2,M,it,5,1321,3.785011355034065,upper
+por supuesto,Univerza v Ljubljani,B2,F,sl,5,17595,0.2841716396703609,upper
+por supuesto,Univerza v Ljubljani,C1,F,sl,5,13120,0.38109756097560976,upper
+por supuesto,Vrije Universiteit Brussel,B2,F,nl,1,2033,0.49188391539596654,upper
+por supuesto,Vrije Universiteit Brussel,C2,F,es,1,4875,0.20512820512820512,upper
+por un lado,Universidad de Sevilla,C2,F,es,1,2332,0.4288164665523156,upper
+por un lado,Universita degli Studi di Palermo,B1,F,it,1,4299,0.23261223540358222,lower
+por un lado,Universita degli Studi di Palermo,B2,F,it,2,9519,0.21010610358230908,upper
+por un lado,Univerza v Ljubljani,C1,F,sl,3,13120,0.22865853658536586,upper
+porque,Universidad de Sevilla,C2,F,es,24,2332,10.291595197255575,upper
+porque,Universidad de Sevilla,C2,M,es,21,833,25.210084033613445,upper
+porque,Universita degli Studi di Palermo,A2,F,it,12,540,22.22222222222222,lower
+porque,Universita degli Studi di Palermo,B1,F,it,50,4299,11.630611770179112,lower
+porque,Universita degli Studi di Palermo,B2,F,it,124,9519,13.026578422103162,upper
+porque,Universita degli Studi di Palermo,B2,M,it,22,1321,16.654049962149887,upper
+porque,Universita degli Studi di Palermo,C1,F,it,20,1837,10.887316276537833,upper
+porque,Universita degli Studi di Palermo,C1,M,it,2,650,3.076923076923077,upper
+porque,Univerza v Ljubljani,B1,F,sl,8,1000,8.0,lower
+porque,Univerza v Ljubljani,B2,F,it,7,414,16.908212560386474,upper
+porque,Univerza v Ljubljani,B2,F,sl,170,17595,9.66183574879227,upper
+porque,Univerza v Ljubljani,B2,F,sr,3,376,7.9787234042553195,upper
+porque,Univerza v Ljubljani,B2,M,sl,8,615,13.008130081300813,upper
+porque,Univerza v Ljubljani,C1,F,sl,127,13120,9.679878048780488,upper
+porque,Univerza v Ljubljani,C1,M,mk,8,459,17.429193899782135,upper
+porque,Univerza v Ljubljani,C1,M,sl,9,928,9.698275862068966,upper
+porque,Univerza v Ljubljani,C2,F,es,24,2942,8.157715839564922,upper
+porque,Univerza v Ljubljani,C2,F,sl,5,659,7.587253414264036,upper
+porque,Univerza v Ljubljani,C2,M,es,9,1217,7.395234182415776,upper
+porque,Vrije Universiteit Brussel,A2,F,nl,2,452,4.424778761061947,lower
+porque,Vrije Universiteit Brussel,A2,M,fr,1,337,2.9673590504451037,lower
+porque,Vrije Universiteit Brussel,B1,F,fr,1,330,3.0303030303030303,lower
+porque,Vrije Universiteit Brussel,B1,F,nl,51,4082,12.493875551200391,lower
+porque,Vrije Universiteit Brussel,B1,F,ro,4,535,7.4766355140186915,lower
+porque,Vrije Universiteit Brussel,B1,M,en,5,475,10.526315789473685,lower
+porque,Vrije Universiteit Brussel,B1,M,fr,4,704,5.681818181818182,lower
+porque,Vrije Universiteit Brussel,B1,M,nl,11,1582,6.95322376738306,lower
+porque,Vrije Universiteit Brussel,B2,F,fr,12,1468,8.174386920980927,upper
+porque,Vrije Universiteit Brussel,B2,F,nl,21,2033,10.329562223315298,upper
+porque,Vrije Universiteit Brussel,C1,F,es,4,429,9.324009324009324,upper
+porque,Vrije Universiteit Brussel,C1,F,fr,11,969,11.351909184726523,upper
+porque,Vrije Universiteit Brussel,C2,F,es,28,4875,5.743589743589744,upper
+porque,Vrije Universiteit Brussel,C2,M,es,15,2277,6.587615283267457,upper
+precisamente,Universita degli Studi di Palermo,B2,F,it,2,9519,0.21010610358230908,upper
+precisamente,Univerza v Ljubljani,B2,F,sl,2,17595,0.11366865586814436,upper
+precisamente,Vrije Universiteit Brussel,C2,F,es,1,4875,0.20512820512820512,upper
+prácticamente,Universita degli Studi di Palermo,C1,F,it,1,1837,0.5443658138268916,upper
+prácticamente,Univerza v Ljubljani,C1,F,sl,1,13120,0.07621951219512195,upper
+prácticamente,Univerza v Ljubljani,C1,M,sl,2,928,2.1551724137931036,upper
+prácticamente,Univerza v Ljubljani,C2,M,es,1,1217,0.8216926869350862,upper
+pues,Universidad de Sevilla,C2,F,es,7,2332,3.0017152658662094,upper
+pues,Universidad de Sevilla,C2,M,es,4,833,4.801920768307323,upper
+pues,Universita degli Studi di Palermo,B1,F,it,1,4299,0.23261223540358222,lower
+pues,Universita degli Studi di Palermo,B2,F,it,10,9519,1.0505305179115454,upper
+pues,Universita degli Studi di Palermo,C1,F,it,1,1837,0.5443658138268916,upper
+pues,Universita degli Studi di Palermo,C1,M,it,2,650,3.076923076923077,upper
+pues,Univerza v Ljubljani,B1,F,sl,3,1000,3.0,lower
+pues,Univerza v Ljubljani,B2,F,sl,186,17595,10.571184995737426,upper
+pues,Univerza v Ljubljani,B2,F,sr,2,376,5.319148936170213,upper
+pues,Univerza v Ljubljani,B2,M,sl,3,615,4.878048780487805,upper
+pues,Univerza v Ljubljani,C1,F,sl,118,13120,8.99390243902439,upper
+pues,Univerza v Ljubljani,C1,M,mk,15,459,32.6797385620915,upper
+pues,Univerza v Ljubljani,C2,F,es,1,2942,0.3399048266485384,upper
+pues,Univerza v Ljubljani,C2,F,sl,1,659,1.5174506828528074,upper
+pues,Univerza v Ljubljani,C2,M,es,6,1217,4.930156121610517,upper
+pues,Vrije Universiteit Brussel,B1,F,nl,20,4082,4.899559039686428,lower
+pues,Vrije Universiteit Brussel,B1,F,ro,6,535,11.214953271028037,lower
+pues,Vrije Universiteit Brussel,B2,F,nl,4,2033,1.9675356615838662,upper
+pues,Vrije Universiteit Brussel,C2,F,es,43,4875,8.820512820512821,upper
+pues,Vrije Universiteit Brussel,C2,M,es,10,2277,4.391743522178305,upper
+pues bien,Univerza v Ljubljani,B2,F,sl,1,17595,0.05683432793407218,upper
+pues nada,Universidad de Sevilla,C2,F,es,1,2332,0.4288164665523156,upper
+pues nada,Univerza v Ljubljani,C2,M,es,1,1217,0.8216926869350862,upper
+pues sí,Univerza v Ljubljani,B2,F,sl,7,17595,0.39784029553850525,upper
+pues sí,Univerza v Ljubljani,B2,M,sl,1,615,1.6260162601626016,upper
+pues sí,Univerza v Ljubljani,C1,F,sl,10,13120,0.7621951219512195,upper
+pues sí,Univerza v Ljubljani,C2,M,es,1,1217,0.8216926869350862,upper
+pues sí,Vrije Universiteit Brussel,B1,F,nl,3,4082,0.7349338559529642,lower
+pues sí,Vrije Universiteit Brussel,B1,F,ro,1,535,1.8691588785046729,lower
+pues sí,Vrije Universiteit Brussel,C2,F,es,2,4875,0.41025641025641024,upper
+realmente,Universidad de Sevilla,C2,F,es,2,2332,0.8576329331046312,upper
+realmente,Universita degli Studi di Palermo,A2,F,it,1,540,1.8518518518518519,lower
+realmente,Universita degli Studi di Palermo,B1,F,it,3,4299,0.6978367062107467,lower
+realmente,Universita degli Studi di Palermo,B2,F,it,4,9519,0.42021220716461816,upper
+realmente,Univerza v Ljubljani,B2,F,sl,14,17595,0.7956805910770105,upper
+realmente,Univerza v Ljubljani,C1,M,mk,7,459,15.250544662309368,upper
+realmente,Univerza v Ljubljani,C2,F,es,8,2942,2.719238613188307,upper
+realmente,Vrije Universiteit Brussel,B1,F,nl,7,4082,1.7148456638902498,lower
+realmente,Vrije Universiteit Brussel,B2,F,fr,2,1468,1.3623978201634876,upper
+realmente,Vrije Universiteit Brussel,C2,F,es,1,4875,0.20512820512820512,upper
+seguramente,Universita degli Studi di Palermo,B1,F,it,2,4299,0.46522447080716445,lower
+seguramente,Universita degli Studi di Palermo,B2,F,it,5,9519,0.5252652589557727,upper
+seguramente,Univerza v Ljubljani,B1,F,sl,1,1000,1.0,lower
+seguramente,Univerza v Ljubljani,B2,F,it,1,414,2.4154589371980677,upper
+seguramente,Univerza v Ljubljani,B2,F,sl,3,17595,0.17050298380221654,upper
+seguramente,Univerza v Ljubljani,C1,F,sl,1,13120,0.07621951219512195,upper
+seguro,Universita degli Studi di Palermo,B2,F,it,2,9519,0.21010610358230908,upper
+seguro,Vrije Universiteit Brussel,A2,F,nl,2,452,4.424778761061947,lower
+seguro,Vrije Universiteit Brussel,B1,F,nl,1,4082,0.2449779519843214,lower
+seguro,Vrije Universiteit Brussel,B1,M,en,1,475,2.1052631578947367,lower
+seguro,Vrije Universiteit Brussel,B1,M,nl,2,1582,1.2642225031605563,lower
+sin embargo,Universita degli Studi di Palermo,A2,F,it,1,540,1.8518518518518519,lower
+sin embargo,Univerza v Ljubljani,B2,F,sl,1,17595,0.05683432793407218,upper
+sin embargo,Univerza v Ljubljani,C2,F,es,1,2942,0.3399048266485384,upper
+sobre todo,Universita degli Studi di Palermo,A2,F,it,1,540,1.8518518518518519,lower
+sobre todo,Universita degli Studi di Palermo,B1,F,it,18,4299,4.1870202372644805,lower
+sobre todo,Universita degli Studi di Palermo,B2,F,it,16,9519,1.6808488286584726,upper
+sobre todo,Universita degli Studi di Palermo,C1,F,it,1,1837,0.5443658138268916,upper
+sobre todo,Univerza v Ljubljani,B2,F,sl,11,17595,0.625177607274794,upper
+sobre todo,Univerza v Ljubljani,C1,F,sl,4,13120,0.3048780487804878,upper
+sobre todo,Univerza v Ljubljani,C1,M,sl,4,928,4.310344827586207,upper
+sobre todo,Univerza v Ljubljani,C2,F,es,6,2942,2.0394289598912305,upper
+sobre todo,Vrije Universiteit Brussel,B1,F,nl,1,4082,0.2449779519843214,lower
+sobre todo,Vrije Universiteit Brussel,C2,F,es,7,4875,1.435897435897436,upper
+sobre todo,Vrije Universiteit Brussel,C2,M,es,2,2277,0.8783487044356609,upper
+solamente,Universita degli Studi di Palermo,B1,F,it,4,4299,0.9304489416143289,lower
+solamente,Universita degli Studi di Palermo,B2,F,it,2,9519,0.21010610358230908,upper
+solamente,Universita degli Studi di Palermo,C1,M,it,1,650,1.5384615384615385,upper
+solamente,Univerza v Ljubljani,B2,F,sl,9,17595,0.5115089514066496,upper
+solamente,Univerza v Ljubljani,C1,F,sl,1,13120,0.07621951219512195,upper
+solamente,Univerza v Ljubljani,C1,M,mk,3,459,6.5359477124183005,upper
+solamente,Vrije Universiteit Brussel,B1,F,fr,1,330,3.0303030303030303,lower
+solamente,Vrije Universiteit Brussel,B1,F,nl,3,4082,0.7349338559529642,lower
+solamente,Vrije Universiteit Brussel,B1,M,nl,2,1582,1.2642225031605563,lower
+solamente,Vrije Universiteit Brussel,B2,F,nl,5,2033,2.459419576979833,upper
+solamente,Vrije Universiteit Brussel,C2,M,es,1,2277,0.43917435221783047,upper
+solo,Universidad de Sevilla,C2,F,es,1,2332,0.4288164665523156,upper
+solo,Universidad de Sevilla,C2,M,es,2,833,2.4009603841536613,upper
+solo,Universita degli Studi di Palermo,A2,F,it,2,540,3.7037037037037037,lower
+solo,Universita degli Studi di Palermo,B1,F,it,7,4299,1.6282856478250756,lower
+solo,Universita degli Studi di Palermo,B2,F,it,13,9519,1.365689673285009,upper
+solo,Universita degli Studi di Palermo,B2,M,it,1,1321,0.757002271006813,upper
+solo,Univerza v Ljubljani,B1,F,sl,1,1000,1.0,lower
+solo,Univerza v Ljubljani,B2,F,sl,42,17595,2.3870417732310316,upper
+solo,Univerza v Ljubljani,C1,F,sl,29,13120,2.2103658536585367,upper
+solo,Univerza v Ljubljani,C1,M,sl,3,928,3.2327586206896552,upper
+solo,Univerza v Ljubljani,C2,F,es,4,2942,1.3596193065941535,upper
+solo,Univerza v Ljubljani,C2,M,es,2,1217,1.6433853738701725,upper
+solo,Vrije Universiteit Brussel,A2,F,nl,1,452,2.2123893805309733,lower
+solo,Vrije Universiteit Brussel,A2,M,fr,1,337,2.9673590504451037,lower
+solo,Vrije Universiteit Brussel,B1,F,nl,4,4082,0.9799118079372856,lower
+solo,Vrije Universiteit Brussel,B1,M,en,3,475,6.315789473684211,lower
+solo,Vrije Universiteit Brussel,B1,M,fr,1,704,1.4204545454545454,lower
+solo,Vrije Universiteit Brussel,C1,F,es,1,429,2.331002331002331,upper
+solo,Vrije Universiteit Brussel,C1,F,fr,2,969,2.063983488132095,upper
+solo,Vrije Universiteit Brussel,C2,F,es,1,4875,0.20512820512820512,upper
+solo,Vrije Universiteit Brussel,C2,M,es,3,2277,1.3175230566534915,upper
+también,Universidad de Sevilla,C2,F,es,15,2332,6.432246998284734,upper
+también,Universidad de Sevilla,C2,M,es,7,833,8.403361344537815,upper
+también,Universita degli Studi di Palermo,A2,F,it,6,540,11.11111111111111,lower
+también,Universita degli Studi di Palermo,B1,F,it,48,4299,11.165387299371947,lower
+también,Universita degli Studi di Palermo,B2,F,it,95,9519,9.980039920159681,upper
+también,Universita degli Studi di Palermo,B2,M,it,23,1321,17.4110522331567,upper
+también,Universita degli Studi di Palermo,C1,F,it,20,1837,10.887316276537833,upper
+también,Universita degli Studi di Palermo,C1,M,it,7,650,10.76923076923077,upper
+también,Univerza v Ljubljani,B1,F,sl,17,1000,17.0,lower
+también,Univerza v Ljubljani,B2,F,it,2,414,4.830917874396135,upper
+también,Univerza v Ljubljani,B2,F,sl,194,17595,11.025859619210003,upper
+también,Univerza v Ljubljani,B2,F,sr,2,376,5.319148936170213,upper
+también,Univerza v Ljubljani,C1,F,sl,148,13120,11.28048780487805,upper
+también,Univerza v Ljubljani,C1,M,mk,3,459,6.5359477124183005,upper
+también,Univerza v Ljubljani,C1,M,sl,18,928,19.396551724137932,upper
+también,Univerza v Ljubljani,C2,F,es,24,2942,8.157715839564922,upper
+también,Univerza v Ljubljani,C2,F,sl,1,659,1.5174506828528074,upper
+también,Univerza v Ljubljani,C2,M,es,7,1217,5.751848808545604,upper
+también,Vrije Universiteit Brussel,A2,F,nl,4,452,8.849557522123893,lower
+también,Vrije Universiteit Brussel,A2,M,fr,2,337,5.9347181008902075,lower
+también,Vrije Universiteit Brussel,B1,F,fr,4,330,12.121212121212121,lower
+también,Vrije Universiteit Brussel,B1,F,nl,29,4082,7.1043606075453205,lower
+también,Vrije Universiteit Brussel,B1,F,ro,6,535,11.214953271028037,lower
+también,Vrije Universiteit Brussel,B1,M,en,6,475,12.631578947368421,lower
+también,Vrije Universiteit Brussel,B1,M,fr,19,704,26.988636363636363,lower
+también,Vrije Universiteit Brussel,B1,M,nl,23,1582,14.538558786346396,lower
+también,Vrije Universiteit Brussel,B2,F,fr,6,1468,4.087193460490464,upper
+también,Vrije Universiteit Brussel,B2,F,nl,25,2033,12.297097884899165,upper
+también,Vrije Universiteit Brussel,C1,F,es,2,429,4.662004662004662,upper
+también,Vrije Universiteit Brussel,C1,F,fr,16,969,16.51186790505676,upper
+también,Vrije Universiteit Brussel,C2,F,es,53,4875,10.871794871794872,upper
+también,Vrije Universiteit Brussel,C2,M,es,7,2277,3.0742204655248133,upper
+tampoco,Universidad de Sevilla,C2,F,es,1,2332,0.4288164665523156,upper
+tampoco,Universidad de Sevilla,C2,M,es,1,833,1.2004801920768307,upper
+tampoco,Universita degli Studi di Palermo,B2,F,it,5,9519,0.5252652589557727,upper
+tampoco,Universita degli Studi di Palermo,B2,M,it,1,1321,0.757002271006813,upper
+tampoco,Universita degli Studi di Palermo,C1,F,it,2,1837,1.0887316276537833,upper
+tampoco,Univerza v Ljubljani,B1,F,sl,1,1000,1.0,lower
+tampoco,Univerza v Ljubljani,B2,F,sl,10,17595,0.5683432793407218,upper
+tampoco,Univerza v Ljubljani,C1,F,sl,5,13120,0.38109756097560976,upper
+tampoco,Univerza v Ljubljani,C1,M,sl,2,928,2.1551724137931036,upper
+tampoco,Univerza v Ljubljani,C2,F,es,1,2942,0.3399048266485384,upper
+tampoco,Univerza v Ljubljani,C2,M,es,1,1217,0.8216926869350862,upper
+tampoco,Vrije Universiteit Brussel,B1,F,nl,2,4082,0.4899559039686428,lower
+tampoco,Vrije Universiteit Brussel,B2,F,fr,1,1468,0.6811989100817438,upper
+tampoco,Vrije Universiteit Brussel,B2,F,nl,2,2033,0.9837678307919331,upper
+tampoco,Vrije Universiteit Brussel,C2,F,es,6,4875,1.2307692307692308,upper
+total,Universita degli Studi di Palermo,B2,F,it,2,9519,0.21010610358230908,upper
+total,Universita degli Studi di Palermo,B2,M,it,1,1321,0.757002271006813,upper
+total,Universita degli Studi di Palermo,C1,F,it,1,1837,0.5443658138268916,upper
+total,Universita degli Studi di Palermo,C1,M,it,2,650,3.076923076923077,upper
+total,Vrije Universiteit Brussel,C2,M,es,1,2277,0.43917435221783047,upper
+totalmente,Universita degli Studi di Palermo,B1,F,it,2,4299,0.46522447080716445,lower
+totalmente,Universita degli Studi di Palermo,B2,F,it,2,9519,0.21010610358230908,upper
+totalmente,Universita degli Studi di Palermo,C1,M,it,2,650,3.076923076923077,upper
+totalmente,Univerza v Ljubljani,B2,F,sl,4,17595,0.2273373117362887,upper
+totalmente,Univerza v Ljubljani,C1,F,sl,2,13120,0.1524390243902439,upper
+totalmente,Univerza v Ljubljani,C2,F,sl,3,659,4.552352048558422,upper
+totalmente,Vrije Universiteit Brussel,B1,F,nl,1,4082,0.2449779519843214,lower
+totalmente,Vrije Universiteit Brussel,B2,F,fr,2,1468,1.3623978201634876,upper
+totalmente,Vrije Universiteit Brussel,B2,F,nl,1,2033,0.49188391539596654,upper
+totalmente,Vrije Universiteit Brussel,C2,F,es,3,4875,0.6153846153846154,upper
+totalmente,Vrije Universiteit Brussel,C2,M,es,1,2277,0.43917435221783047,upper
+vale,Universita degli Studi di Palermo,B1,F,it,8,4299,1.8608978832286578,lower
+vale,Universita degli Studi di Palermo,B2,F,it,18,9519,1.8909549322407817,upper
+vale,Universita degli Studi di Palermo,C1,F,it,3,1837,1.633097441480675,upper
+vale,Univerza v Ljubljani,B2,F,sl,30,17595,1.7050298380221653,upper
+vale,Univerza v Ljubljani,B2,M,sl,1,615,1.6260162601626016,upper
+vale,Univerza v Ljubljani,C1,F,sl,25,13120,1.9054878048780488,upper
+vale,Univerza v Ljubljani,C1,M,mk,3,459,6.5359477124183005,upper
+vale,Univerza v Ljubljani,C1,M,sl,25,928,26.939655172413794,upper
+vale,Univerza v Ljubljani,C2,F,es,6,2942,2.0394289598912305,upper
+vale,Univerza v Ljubljani,C2,F,sl,1,659,1.5174506828528074,upper
+vale,Univerza v Ljubljani,C2,M,es,4,1217,3.286770747740345,upper
+vale,Vrije Universiteit Brussel,A2,M,fr,2,337,5.9347181008902075,lower
+vale,Vrije Universiteit Brussel,B1,F,fr,1,330,3.0303030303030303,lower
+vale,Vrije Universiteit Brussel,B1,F,nl,13,4082,3.1847133757961785,lower
+vale,Vrije Universiteit Brussel,B1,M,en,5,475,10.526315789473685,lower
+vale,Vrije Universiteit Brussel,B1,M,nl,2,1582,1.2642225031605563,lower
+vale,Vrije Universiteit Brussel,B2,F,fr,6,1468,4.087193460490464,upper
+vale,Vrije Universiteit Brussel,B2,F,nl,5,2033,2.459419576979833,upper
+vale,Vrije Universiteit Brussel,C2,F,es,3,4875,0.6153846153846154,upper
+vale,Vrije Universiteit Brussel,C2,M,es,1,2277,0.43917435221783047,upper
+vamos,Universidad de Sevilla,C2,F,es,3,2332,1.2864493996569468,upper
+vamos,Universidad de Sevilla,C2,M,es,1,833,1.2004801920768307,upper
+vamos,Universita degli Studi di Palermo,A2,F,it,1,540,1.8518518518518519,lower
+vamos,Universita degli Studi di Palermo,B1,F,it,3,4299,0.6978367062107467,lower
+vamos,Universita degli Studi di Palermo,B2,F,it,6,9519,0.6303183107469272,upper
+vamos,Univerza v Ljubljani,B2,F,sl,7,17595,0.39784029553850525,upper
+vamos,Univerza v Ljubljani,B2,F,sr,2,376,5.319148936170213,upper
+vamos,Univerza v Ljubljani,C1,F,sl,14,13120,1.0670731707317074,upper
+vamos,Univerza v Ljubljani,C2,F,es,2,2942,0.6798096532970768,upper
+vamos,Univerza v Ljubljani,C2,F,sl,2,659,3.0349013657056148,upper
+vamos,Vrije Universiteit Brussel,B1,F,ro,2,535,3.7383177570093458,lower
+vamos,Vrije Universiteit Brussel,B1,M,en,1,475,2.1052631578947367,lower
+vamos,Vrije Universiteit Brussel,B1,M,fr,1,704,1.4204545454545454,lower
+vamos,Vrije Universiteit Brussel,C2,F,es,2,4875,0.41025641025641024,upper
+vaya,Universidad de Sevilla,C2,M,es,1,833,1.2004801920768307,upper
+vaya,Universita degli Studi di Palermo,B1,F,it,2,4299,0.46522447080716445,lower
+vaya,Universita degli Studi di Palermo,B2,F,it,1,9519,0.10505305179115454,upper
+vaya,Univerza v Ljubljani,C1,F,sl,3,13120,0.22865853658536586,upper
+vaya,Univerza v Ljubljani,C1,M,mk,3,459,6.5359477124183005,upper
+vaya,Univerza v Ljubljani,C2,F,es,1,2942,0.3399048266485384,upper
+ya,Universidad de Sevilla,C2,F,es,15,2332,6.432246998284734,upper
+ya,Universidad de Sevilla,C2,M,es,1,833,1.2004801920768307,upper
+ya,Universita degli Studi di Palermo,B1,F,it,6,4299,1.3956734124214933,lower
+ya,Universita degli Studi di Palermo,B2,F,it,22,9519,2.3111671394054,upper
+ya,Universita degli Studi di Palermo,B2,M,it,12,1321,9.084027252081757,upper
+ya,Universita degli Studi di Palermo,C1,F,it,11,1837,5.9880239520958085,upper
+ya,Universita degli Studi di Palermo,C1,M,it,4,650,6.153846153846154,upper
+ya,Univerza v Ljubljani,B1,F,sl,1,1000,1.0,lower
+ya,Univerza v Ljubljani,B2,F,sl,45,17595,2.557544757033248,upper
+ya,Univerza v Ljubljani,B2,F,sr,1,376,2.6595744680851063,upper
+ya,Univerza v Ljubljani,B2,M,sl,1,615,1.6260162601626016,upper
+ya,Univerza v Ljubljani,C1,F,sl,36,13120,2.7439024390243905,upper
+ya,Univerza v Ljubljani,C1,M,mk,1,459,2.178649237472767,upper
+ya,Univerza v Ljubljani,C1,M,sl,7,928,7.543103448275862,upper
+ya,Univerza v Ljubljani,C2,F,es,12,2942,4.078857919782461,upper
+ya,Univerza v Ljubljani,C2,F,sl,9,659,13.657056145675266,upper
+ya,Univerza v Ljubljani,C2,M,es,3,1217,2.4650780608052587,upper
+ya,Vrije Universiteit Brussel,B1,F,fr,1,330,3.0303030303030303,lower
+ya,Vrije Universiteit Brussel,B1,F,nl,7,4082,1.7148456638902498,lower
+ya,Vrije Universiteit Brussel,B1,M,en,4,475,8.421052631578947,lower
+ya,Vrije Universiteit Brussel,B1,M,nl,2,1582,1.2642225031605563,lower
+ya,Vrije Universiteit Brussel,B2,F,fr,1,1468,0.6811989100817438,upper
+ya,Vrije Universiteit Brussel,B2,F,nl,8,2033,3.9350713231677323,upper
+ya,Vrije Universiteit Brussel,C1,F,es,2,429,4.662004662004662,upper
+ya,Vrije Universiteit Brussel,C1,F,fr,3,969,3.0959752321981426,upper
+ya,Vrije Universiteit Brussel,C2,F,es,27,4875,5.538461538461538,upper
+ya,Vrije Universiteit Brussel,C2,M,es,6,2277,2.635046113306983,upper
+¿no?,Universidad de Sevilla,C2,F,es,7,2332,3.0017152658662094,upper
+¿no?,Universita degli Studi di Palermo,A2,F,it,3,540,5.555555555555555,lower
+¿no?,Universita degli Studi di Palermo,B1,F,it,2,4299,0.46522447080716445,lower
+¿no?,Universita degli Studi di Palermo,B2,F,it,22,9519,2.3111671394054,upper
+¿no?,Universita degli Studi di Palermo,C1,F,it,1,1837,0.5443658138268916,upper
+¿no?,Universita degli Studi di Palermo,C1,M,it,1,650,1.5384615384615385,upper
+¿no?,Univerza v Ljubljani,B2,F,sl,94,17595,5.342426825802785,upper
+¿no?,Univerza v Ljubljani,B2,M,sl,1,615,1.6260162601626016,upper
+¿no?,Univerza v Ljubljani,C1,F,sl,91,13120,6.935975609756097,upper
+¿no?,Univerza v Ljubljani,C1,M,sl,30,928,32.327586206896555,upper
+¿no?,Univerza v Ljubljani,C2,F,es,6,2942,2.0394289598912305,upper
+¿no?,Univerza v Ljubljani,C2,M,es,5,1217,4.108463434675431,upper
+¿no?,Vrije Universiteit Brussel,B1,F,nl,4,4082,0.9799118079372856,lower
+¿no?,Vrije Universiteit Brussel,B1,F,ro,1,535,1.8691588785046729,lower
+¿no?,Vrije Universiteit Brussel,B1,M,fr,2,704,2.840909090909091,lower
+¿no?,Vrije Universiteit Brussel,B1,M,nl,1,1582,0.6321112515802781,lower
+¿no?,Vrije Universiteit Brussel,B2,F,fr,1,1468,0.6811989100817438,upper
+¿no?,Vrije Universiteit Brussel,B2,F,nl,2,2033,0.9837678307919331,upper
+¿no?,Vrije Universiteit Brussel,C2,F,es,32,4875,6.564102564102564,upper
+¿no?,Vrije Universiteit Brussel,C2,M,es,3,2277,1.3175230566534915,upper
